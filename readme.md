@@ -1,5 +1,5 @@
-# Three.js Journey
 
+배포 : https://galaxy-generator-lilac.vercel.app/
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
